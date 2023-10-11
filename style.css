@@ -1,0 +1,17 @@
+.barra {
+    height:90px;
+    background-color:rgb(243, 211, 26);
+}
+nav{
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+    
+
+}
+img 
+{
+    width:220px;
+    height:75px;
+    float:left;
+}
